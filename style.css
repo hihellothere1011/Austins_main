@@ -1,0 +1,33 @@
+body {
+    background-color: #141E30;
+    color: #52EFBA;
+
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 5%;
+    box-sizing: border-box;
+    transition: background-color 0.5s ease;
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+a {
+    border: 6px solid #9412BC;
+    background-color: #52EFBA;
+    border-radius: 3px;
+    font-size: 50px;
+    color: #3E74AE;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 5%;
+    font-weight: bolder;
+}
