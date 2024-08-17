@@ -1,8 +1,6 @@
 body {
     background-color: #141E30;
     color: #52EFBA;
-
-    display: flex;
     flex-direction: column;
     margin: 0;
     padding: 5%;
